@@ -1,4 +1,4 @@
-# Camera-based Person Re-identification
+# Cross Camera Player Mapping
 The official code for [Rethinking the Distribution Gap of Person Re-identification with Camera-based Batch Normalization](https://arxiv.org/abs/2001.08680).
 It implements the fundamental idea of our paper: aligning all training and testing cameras.
 This code is based on an early version of [Cysu/open-reid](https://github.com/Cysu/open-reid).
